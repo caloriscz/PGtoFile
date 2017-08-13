@@ -1,0 +1,15 @@
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\PGtoFile.exe.config
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\PGtoFile.exe
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\PGtoFile.pdb
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\Npgsql.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\Mono.Security.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\Npgsql.pdb
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\Npgsql.xml
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\de\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\es\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\fi\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\fr\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\ja\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\bin\x86\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\obj\x86\Debug\PGtoFile.exe
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\PGtoFile\PGtoFile\obj\x86\Debug\PGtoFile.pdb

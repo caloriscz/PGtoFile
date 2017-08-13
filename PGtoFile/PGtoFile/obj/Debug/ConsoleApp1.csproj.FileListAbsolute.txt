@@ -1,0 +1,16 @@
+c:\users\p2rk5k\documents\visual studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Npgsql.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Mono.Security.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Npgsql.pdb
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\Npgsql.xml
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\de\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\es\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\PGtoFile.exe.config
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\PGtoFile.exe
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Debug\PGtoFile.pdb
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\PGtoFile.exe
+C:\Users\p2rk5k\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Debug\PGtoFile.pdb
